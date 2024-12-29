@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://PITGateway.github.io/PitLauncher/",
+  "homepage": "https://tiktokmall247.github.io/Merchant/",
   "private": true,
   "dependencies": {
     "@chaunnt/reactjs_buildpackageandnotify": "^1.0.32",

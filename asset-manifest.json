@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PitLauncher/static/css/main.ea2a2eec.css",
+    "main.js": "/PitLauncher/static/js/main.154ddaba.js",
+    "index.html": "/PitLauncher/index.html",
+    "main.ea2a2eec.css.map": "/PitLauncher/static/css/main.ea2a2eec.css.map",
+    "main.154ddaba.js.map": "/PitLauncher/static/js/main.154ddaba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea2a2eec.css",
+    "static/js/main.154ddaba.js"
+  ]
+}
